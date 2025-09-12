@@ -35,7 +35,7 @@ Top Churn
 
 ## PowerBI dashboard showing key categories
 
-![TelecomChurn1 (1)](https://github.com/user-attachments/assets/c40f9b88-88d7-4d31-ad06-e707588d668d)
+<img width="1300" height="733" alt="Telecom_Churn_BarChart" src="https://github.com/user-attachments/assets/ab5b1d8a-68d3-4c27-b249-e5ff56c7a851" />
 
 - Seniors tend to be lower income.
 - Singles and those without dependents move more often.
