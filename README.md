@@ -4,7 +4,7 @@
 - [Data_Description](#Data_Description)
 - [Key_Insights](#Key_Insights)
 - [Business_Suggestions](#Business_Suggestions)
-- [Data_Limitations](#DataLimitations)
+- [Data Limitations](#DataLimitations)
 - [Technical_SQL_Details](#Technical_SQL_Details)
 
 
